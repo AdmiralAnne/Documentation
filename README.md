@@ -4,4 +4,5 @@
 
 [learn async-await](https://github.com/AdmiralAnne/Documentation/blob/main/learn_async_await_python.md)
 
+[python_project_ideas](https://github.com/AdmiralAnne/Documentation/blob/main/python_future_projects.md)
 ---
